@@ -33,7 +33,6 @@ On launch, the database is reset automatically for a clean session.
 - `black_scholes.db`: SQLite database logging each session's inputs and heatmap data
 - `inputs.csv`: CSV containing the session’s input parameters
 - `heatmap_outputs.csv`: Full PnL grid across volatility and spot
-- `heatmap_pnl.png`: Downloadable heatmap image
 - `heatmap_pnl.pdf`: High-quality printable version of the heatmap
 
 ## Use Case
